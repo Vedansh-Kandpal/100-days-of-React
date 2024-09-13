@@ -61,7 +61,7 @@ This is a personal challenge, but contributions, suggestions, and feedback are w
 
 ## Contact
 
-- **Your Name** - [vedansh.kandpal06@gmail.com](mailto:vedansh.kandpal06@gmail.com)
+- **Vedansh Kandpal** - [vedansh.kandpal06@gmail.com](mailto:vedansh.kandpal06@gmail.com)
 
 Feel free to reach out if you have any questions or comments!
 
