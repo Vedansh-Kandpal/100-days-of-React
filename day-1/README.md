@@ -7,6 +7,11 @@ This is a simple todo application built as part of the "100 Days of React" chall
 - Mark items as done using checkboxes.
 - Delete items from the list.
 
+### Live Demo
+
+Check out the live demo of the application here: [Live Demo]([https://your-live-url.vercel.app](https://100-days-of-react.vercel.app/))
+
+
 ### Features
 
 - **Add Todo Items:** Users can add new items to the todo list.
