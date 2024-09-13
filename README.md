@@ -19,7 +19,6 @@ In this challenge, I will build a new React project every day for 100 days. Each
 To get started with any of the projects in this repository, follow these steps:
 
 1. **Clone the Repository:**
-<<<<<<< HEAD
 
    ```bash
    git clone https://github.com/Vedansh-Kandpal/100-days-of-react.git
@@ -42,38 +41,12 @@ To get started with any of the projects in this repository, follow these steps:
    ```bash
    npm start
    ```
-=======
-    ```bash
-    git clone https://github.com/Vedansh-Kandpal/100-days-of-react.git
-    cd 100-days-of-react
-    ```
-
-2. **Navigate to the Desired Project Directory:**
-    ```bash
-    cd day-1 # Replace 'day1' with the folder of the project you want to view
-    ```
-
-3. **Install Dependencies:**
-    ```bash
-    npm install
-    ```
-
-4. **Run the Project:**
-    ```bash
-    npm start
-    ```
->>>>>>> 83c9727bbc1ced48735cfa11beb8800a6abf2575
 
 ## Projects
 
 Here’s a brief overview of what each day's project covers:
 
-<<<<<<< HEAD
 - **Day 1:** [Basic TODO App](./day-1/README.md)
-=======
-- **Day 1:** [Basic TODO App](./day-1/README.md) 
-
->>>>>>> 83c9727bbc1ced48735cfa11beb8800a6abf2575
 
 **Note:** Each project directory contains its own `README.md` file with specific details and instructions related to that day's project.
 
@@ -93,7 +66,5 @@ This is a personal challenge, but contributions, suggestions, and feedback are w
 - **Vedansh Kandpal** - [vedansh.kandpal06@gmail.com](mailto:vedansh.kandpal06@gmail.com)
 
 Feel free to reach out if you have any questions or comments!
-
----
 
 Thank you for checking out my "100 Days of React" challenge. I hope you find the projects and code useful for learning and inspiration.
