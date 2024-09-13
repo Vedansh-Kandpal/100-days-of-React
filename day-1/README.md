@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/100-days-of-react.git
+    git clone https://github.com/Vedansh-Kandpal/100-days-of-react.git
     cd 100-days-of-react/day-1
     ```
 
