@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import './index.css';
-import "./components/TodoInput"
 import TodoInput from "./components/TodoInput";
 import ListItem from './components/ListItem';
 
