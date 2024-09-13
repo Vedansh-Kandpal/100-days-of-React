@@ -3,7 +3,10 @@
 ## Overview
 
 This is a simple todo application built as part of the "100 Days of React" challenge. The app allows users to:
+<<<<<<< HEAD
 
+=======
+>>>>>>> 83c9727bbc1ced48735cfa11beb8800a6abf2575
 - Add items to a todo list.
 - Mark items as done using checkboxes.
 - Delete items from the list.
@@ -12,6 +15,10 @@ This is a simple todo application built as part of the "100 Days of React" chall
 
 Check out the live demo of the application here: [Live Demo](https://100-days-of-react.vercel.app/)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 83c9727bbc1ced48735cfa11beb8800a6abf2575
 ### Features
 
 - **Add Todo Items:** Users can add new items to the todo list.
@@ -29,6 +36,7 @@ Check out the live demo of the application here: [Live Demo](https://100-days-of
 To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
+<<<<<<< HEAD
 
    ```bash
    git clone https://github.com/Vedansh-Kandpal/100-days-of-react.git
@@ -58,6 +66,34 @@ To run this project locally, follow these steps:
   - **`ListItem.jsx`**: Component that displays individual todo items.
 - **`index.css`**: Styles for the application.
 - **`index.js`**: Entry point of the application, rendering the `App` component.
+=======
+    ```bash
+    git clone https://github.com/Vedansh-Kandpal/100-days-of-react.git
+    cd 100-days-of-react/day-1
+    ```
+
+2. **Install Dependencies:**
+    ```bash
+    npm install
+    ```
+
+3. **Start the Development Server:**
+    ```bash
+    npm start
+    ```
+
+    Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to see the app in action.
+
+### File Structure
+
+ - **`src/`**: Contains the source code for the application.
+  - **`App.js`**: Main component managing the todo list.
+  - **`components/`**: Directory containing React components.
+    - **`TodoInput.jsx`**: Component for typing and submitting new todo items.
+    - **`ListItem.jsx`**: Component that displays individual todo items.
+  - **`index.css`**: Styles for the application.
+  - **`index.js`**: Entry point of the application, rendering the `App` component.
+>>>>>>> 83c9727bbc1ced48735cfa11beb8800a6abf2575
 
 ### How It Works
 
@@ -72,15 +108,27 @@ To run this project locally, follow these steps:
 ![image](https://github.com/user-attachments/assets/d1cd7f0f-0c79-4aeb-8e5f-fabb16cc6f4f)
 ![image](https://github.com/user-attachments/assets/c516f24d-01f8-4dca-93da-e9d3be053843)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 83c9727bbc1ced48735cfa11beb8800a6abf2575
 ### Known Issues
 
 - **No Database Connection:** The app does not connect to a database.
 - **Checkbox Issue:** If an item is marked as done and then deleted, the checkmark may incorrectly move to the next item in the list.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 83c9727bbc1ced48735cfa11beb8800a6abf2575
 ### Contributing
 
 This is a personal project for the "100 Days of React" challenge, but contributions and feedback are welcome. Feel free to open an issue or submit a pull request.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 83c9727bbc1ced48735cfa11beb8800a6abf2575
 ### Contact
 
 - **Vedansh Kandpal** - [vedansh.kandpal06@gmail.com](mailto:vedansh.kandpal06@gmail.com)
