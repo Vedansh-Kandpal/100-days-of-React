@@ -9,7 +9,7 @@ This is a simple todo application built as part of the "100 Days of React" chall
 
 ### Live Demo
 
-Check out the live demo of the application here: [Live Demo]((https://100-days-of-react.vercel.app/))
+Check out the live demo of the application here: [Live Demo](https://100-days-of-react.vercel.app/)
 
 
 ### Features
