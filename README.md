@@ -26,7 +26,7 @@ To get started with any of the projects in this repository, follow these steps:
 
 2. **Navigate to the Desired Project Directory:**
     ```bash
-    cd day1 # Replace 'day1' with the folder of the project you want to view
+    cd day-1 # Replace 'day1' with the folder of the project you want to view
     ```
 
 3. **Install Dependencies:**
