@@ -43,7 +43,7 @@ To get started with any of the projects in this repository, follow these steps:
 
 Here’s a brief overview of what each day's project covers:
 
-- **Day 1:** [Basic TODO App](./day1/README.md) 
+- **Day 1:** [Basic TODO App](./day-1/README.md) 
 
 
 **Note:** Each project directory contains its own `README.md` file with specific details and instructions related to that day's project.
