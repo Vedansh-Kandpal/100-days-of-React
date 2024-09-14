@@ -76,6 +76,8 @@ To run this project locally, follow these steps:
 
 - **No Database Connection:** The app does not connect to a database.
 - **Checkbox Issue:** If an item is marked as done and then deleted, the checkmark may incorrectly move to the next item in the list.
+- **Blank Item Creation:** If the input field is left blank and the add button is clicked, a blank item is created in the list.
+
 
 ### Contributing
 
