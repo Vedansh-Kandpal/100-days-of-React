@@ -1,6 +1,6 @@
 import { useRef, memo } from 'react'
 
-const Counter = () => {
+function Counter() {
     const count = useRef(0)
 
     return (
